@@ -1,0 +1,214 @@
+dim_lokacija_sk,lokacija_id,lokacija_naziv,nivo,drzava,statisticna_regija,tip_destinacije
+1,LOK_00001,Ajdovščina,OBCINA,Slovenija,,OSTALO
+2,LOK_00002,Ankaran/Ancarano,OBCINA,Slovenija,,OBMORSKA
+3,LOK_00003,Apače,OBCINA,Slovenija,,OSTALO
+4,LOK_00004,Beltinci,OBCINA,Slovenija,,OSTALO
+5,LOK_00005,Benedikt,OBCINA,Slovenija,,OSTALO
+6,LOK_00006,Bistrica ob Sotli,OBCINA,Slovenija,,OSTALO
+7,LOK_00007,Bled,OBCINA,Slovenija,,GORSKA
+8,LOK_00008,Bloke,OBCINA,Slovenija,,OSTALO
+9,LOK_00009,Bohinj,OBCINA,Slovenija,,GORSKA
+10,LOK_00010,Borovnica,OBCINA,Slovenija,,OSTALO
+11,LOK_00011,Bovec,OBCINA,Slovenija,,GORSKA
+12,LOK_00012,Braslovče,OBCINA,Slovenija,,OSTALO
+13,LOK_00013,Brda,OBCINA,Slovenija,,OSTALO
+14,LOK_00014,Brezovica,OBCINA,Slovenija,,OSTALO
+15,LOK_00015,Brežice,OBCINA,Slovenija,,OSTALO
+16,LOK_00016,Cankova,OBCINA,Slovenija,,OSTALO
+17,LOK_00017,Celje,OBCINA,Slovenija,,MESTNA
+18,LOK_00018,Cerklje na Gorenjskem,OBCINA,Slovenija,,OSTALO
+19,LOK_00019,Cerknica,OBCINA,Slovenija,,OSTALO
+20,LOK_00020,Cerkno,OBCINA,Slovenija,,OSTALO
+21,LOK_00021,Cerkvenjak,OBCINA,Slovenija,,OSTALO
+22,LOK_00022,Cirkulane,OBCINA,Slovenija,,OSTALO
+23,LOK_00023,Destrnik,OBCINA,Slovenija,,OSTALO
+24,LOK_00024,Divača,OBCINA,Slovenija,,OSTALO
+25,LOK_00025,Dobje,OBCINA,Slovenija,,OSTALO
+26,LOK_00026,Dobrepolje,OBCINA,Slovenija,,OSTALO
+27,LOK_00027,Dobrna,OBCINA,Slovenija,,OSTALO
+28,LOK_00028,Dobrova - Polhov Gradec,OBCINA,Slovenija,,OSTALO
+29,LOK_00029,Dobrovnik/Dobronak,OBCINA,Slovenija,,OSTALO
+30,LOK_00030,Dol pri Ljubljani,OBCINA,Slovenija,,OSTALO
+31,LOK_00031,Dolenjske Toplice,OBCINA,Slovenija,,OSTALO
+32,LOK_00032,Domžale,OBCINA,Slovenija,,OSTALO
+33,LOK_00033,Dornava,OBCINA,Slovenija,,OSTALO
+34,LOK_00034,Dravograd,OBCINA,Slovenija,,OSTALO
+35,LOK_00035,Duplek,OBCINA,Slovenija,,OSTALO
+36,LOK_00036,Gorenja vas - Poljane,OBCINA,Slovenija,,OSTALO
+37,LOK_00037,Gorišnica,OBCINA,Slovenija,,OSTALO
+38,LOK_00038,Gorje,OBCINA,Slovenija,,OSTALO
+39,LOK_00039,Gornja Radgona,OBCINA,Slovenija,,OSTALO
+40,LOK_00040,Gornji Grad,OBCINA,Slovenija,,OSTALO
+41,LOK_00041,Gornji Petrovci,OBCINA,Slovenija,,OSTALO
+42,LOK_00042,Grad,OBCINA,Slovenija,,OSTALO
+43,LOK_00043,Grosuplje,OBCINA,Slovenija,,OSTALO
+44,LOK_00044,Hajdina,OBCINA,Slovenija,,OSTALO
+45,LOK_00045,Hodoš/Hodos,OBCINA,Slovenija,,OSTALO
+46,LOK_00046,Horjul,OBCINA,Slovenija,,OSTALO
+47,LOK_00047,Hoče - Slivnica,OBCINA,Slovenija,,OSTALO
+48,LOK_00048,Hrastnik,OBCINA,Slovenija,,OSTALO
+49,LOK_00049,Hrpelje - Kozina,OBCINA,Slovenija,,OSTALO
+50,LOK_00050,Idrija,OBCINA,Slovenija,,OSTALO
+51,LOK_00051,Ig,OBCINA,Slovenija,,OSTALO
+52,LOK_00052,Ilirska Bistrica,OBCINA,Slovenija,,OSTALO
+53,LOK_00053,Ivančna Gorica,OBCINA,Slovenija,,OSTALO
+54,LOK_00054,Izola/Isola,OBCINA,Slovenija,,OBMORSKA
+55,LOK_00055,Jesenice,OBCINA,Slovenija,,OSTALO
+56,LOK_00056,Jezersko,OBCINA,Slovenija,,OSTALO
+57,LOK_00057,Juršinci,OBCINA,Slovenija,,OSTALO
+58,LOK_00058,Kamnik,OBCINA,Slovenija,,OSTALO
+59,LOK_00059,Kanal,OBCINA,Slovenija,,OSTALO
+60,LOK_00060,Kidričevo,OBCINA,Slovenija,,OSTALO
+61,LOK_00061,Kobarid,OBCINA,Slovenija,,GORSKA
+62,LOK_00062,Kobilje,OBCINA,Slovenija,,OSTALO
+63,LOK_00063,Komen,OBCINA,Slovenija,,OSTALO
+64,LOK_00064,Komenda,OBCINA,Slovenija,,OSTALO
+65,LOK_00065,Koper/Capodistria,OBCINA,Slovenija,,OBMORSKA
+66,LOK_00066,Kostanjevica na Krki,OBCINA,Slovenija,,OSTALO
+67,LOK_00067,Kostel,OBCINA,Slovenija,,OSTALO
+68,LOK_00068,Kozje,OBCINA,Slovenija,,OSTALO
+69,LOK_00069,Kočevje,OBCINA,Slovenija,,OSTALO
+70,LOK_00070,Kranj,OBCINA,Slovenija,,MESTNA
+71,LOK_00071,Kranjska Gora,OBCINA,Slovenija,,GORSKA
+72,LOK_00072,Križevci,OBCINA,Slovenija,,OSTALO
+73,LOK_00073,Krško,OBCINA,Slovenija,,OSTALO
+74,LOK_00074,Kungota,OBCINA,Slovenija,,OSTALO
+75,LOK_00075,Kuzma,OBCINA,Slovenija,,OSTALO
+76,LOK_00076,Laško,OBCINA,Slovenija,,OSTALO
+77,LOK_00077,Lenart,OBCINA,Slovenija,,OSTALO
+78,LOK_00078,Lendava/Lendva,OBCINA,Slovenija,,OSTALO
+79,LOK_00079,Litija,OBCINA,Slovenija,,OSTALO
+80,LOK_00080,Ljubljana,OBCINA,Slovenija,,MESTNA
+81,LOK_00081,Ljubno,OBCINA,Slovenija,,OSTALO
+82,LOK_00082,Ljutomer,OBCINA,Slovenija,,OSTALO
+83,LOK_00083,Log - Dragomer,OBCINA,Slovenija,,OSTALO
+84,LOK_00084,Logatec,OBCINA,Slovenija,,OSTALO
+85,LOK_00085,Lovrenc na Pohorju,OBCINA,Slovenija,,OSTALO
+86,LOK_00086,Loška dolina,OBCINA,Slovenija,,OSTALO
+87,LOK_00087,Loški Potok,OBCINA,Slovenija,,OSTALO
+88,LOK_00088,Lukovica,OBCINA,Slovenija,,OSTALO
+89,LOK_00089,Luče,OBCINA,Slovenija,,OSTALO
+90,LOK_00090,Majšperk,OBCINA,Slovenija,,OSTALO
+91,LOK_00091,Makole,OBCINA,Slovenija,,OSTALO
+92,LOK_00092,Maribor,OBCINA,Slovenija,,MESTNA
+93,LOK_00093,Markovci,OBCINA,Slovenija,,OSTALO
+94,LOK_00094,Medvode,OBCINA,Slovenija,,OSTALO
+95,LOK_00095,Mengeš,OBCINA,Slovenija,,OSTALO
+96,LOK_00096,Metlika,OBCINA,Slovenija,,OSTALO
+97,LOK_00097,Mežica,OBCINA,Slovenija,,OSTALO
+98,LOK_00098,Miklavž na Dravskem polju,OBCINA,Slovenija,,OSTALO
+99,LOK_00099,Miren - Kostanjevica,OBCINA,Slovenija,,OSTALO
+100,LOK_00100,Mirna,OBCINA,Slovenija,,OSTALO
+101,LOK_00101,Mirna Peč,OBCINA,Slovenija,,OSTALO
+102,LOK_00102,Mislinja,OBCINA,Slovenija,,OSTALO
+103,LOK_00103,Mokronog - Trebelno,OBCINA,Slovenija,,OSTALO
+104,LOK_00104,Moravske Toplice,OBCINA,Slovenija,,OSTALO
+105,LOK_00105,Moravče,OBCINA,Slovenija,,OSTALO
+106,LOK_00106,Mozirje,OBCINA,Slovenija,,OSTALO
+107,LOK_00107,Murska Sobota,OBCINA,Slovenija,,OSTALO
+108,LOK_00108,Muta,OBCINA,Slovenija,,OSTALO
+109,LOK_00109,Naklo,OBCINA,Slovenija,,OSTALO
+110,LOK_00110,Nazarje,OBCINA,Slovenija,,OSTALO
+111,LOK_00111,Nova Gorica,OBCINA,Slovenija,,OSTALO
+112,LOK_00112,Novo mesto,OBCINA,Slovenija,,MESTNA
+113,LOK_00113,Odranci,OBCINA,Slovenija,,OSTALO
+114,LOK_00114,Oplotnica,OBCINA,Slovenija,,OSTALO
+115,LOK_00115,Ormož,OBCINA,Slovenija,,OSTALO
+116,LOK_00116,Osilnica,OBCINA,Slovenija,,OSTALO
+117,LOK_00117,Pesnica,OBCINA,Slovenija,,OSTALO
+118,LOK_00118,Piran/Pirano,OBCINA,Slovenija,,OBMORSKA
+119,LOK_00119,Pivka,OBCINA,Slovenija,,OSTALO
+120,LOK_00120,Podlehnik,OBCINA,Slovenija,,OSTALO
+121,LOK_00121,Podvelka,OBCINA,Slovenija,,OSTALO
+122,LOK_00122,Podčetrtek,OBCINA,Slovenija,,OSTALO
+123,LOK_00123,Poljčane,OBCINA,Slovenija,,OSTALO
+124,LOK_00124,Polzela,OBCINA,Slovenija,,OSTALO
+125,LOK_00125,Postojna,OBCINA,Slovenija,,OSTALO
+126,LOK_00126,Prebold,OBCINA,Slovenija,,OSTALO
+127,LOK_00127,Preddvor,OBCINA,Slovenija,,OSTALO
+128,LOK_00128,Prevalje,OBCINA,Slovenija,,OSTALO
+129,LOK_00129,Ptuj,OBCINA,Slovenija,,OSTALO
+130,LOK_00130,Puconci,OBCINA,Slovenija,,OSTALO
+131,LOK_00131,Radenci,OBCINA,Slovenija,,OSTALO
+132,LOK_00132,Radeče,OBCINA,Slovenija,,OSTALO
+133,LOK_00133,Radlje ob Dravi,OBCINA,Slovenija,,OSTALO
+134,LOK_00134,Radovljica,OBCINA,Slovenija,,OSTALO
+135,LOK_00135,Ravne na Koroškem,OBCINA,Slovenija,,OSTALO
+136,LOK_00136,Razkrižje,OBCINA,Slovenija,,OSTALO
+137,LOK_00137,Rače - Fram,OBCINA,Slovenija,,OSTALO
+138,LOK_00138,Renče - Vogrsko,OBCINA,Slovenija,,OSTALO
+139,LOK_00139,Rečica ob Savinji,OBCINA,Slovenija,,OSTALO
+140,LOK_00140,Ribnica,OBCINA,Slovenija,,OSTALO
+141,LOK_00141,Ribnica na Pohorju,OBCINA,Slovenija,,OSTALO
+142,LOK_00142,Rogatec,OBCINA,Slovenija,,OSTALO
+143,LOK_00143,Rogaška Slatina,OBCINA,Slovenija,,OSTALO
+144,LOK_00144,Rogašovci,OBCINA,Slovenija,,OSTALO
+145,LOK_00145,Ruše,OBCINA,Slovenija,,OSTALO
+146,LOK_00146,SLOVENIJA,DRZAVA,Slovenija,,NACIONALNO
+147,LOK_00147,Selnica ob Dravi,OBCINA,Slovenija,,OSTALO
+148,LOK_00148,Semič,OBCINA,Slovenija,,OSTALO
+149,LOK_00149,Sevnica,OBCINA,Slovenija,,OSTALO
+150,LOK_00150,Sežana,OBCINA,Slovenija,,OSTALO
+151,LOK_00151,Slovenj Gradec,OBCINA,Slovenija,,OSTALO
+152,LOK_00152,Slovenska Bistrica,OBCINA,Slovenija,,OSTALO
+153,LOK_00153,Slovenske Konjice,OBCINA,Slovenija,,OSTALO
+154,LOK_00154,Sodražica,OBCINA,Slovenija,,OSTALO
+155,LOK_00155,Solčava,OBCINA,Slovenija,,OSTALO
+156,LOK_00156,Središče ob Dravi,OBCINA,Slovenija,,OSTALO
+157,LOK_00157,Starše,OBCINA,Slovenija,,OSTALO
+158,LOK_00158,Straža,OBCINA,Slovenija,,OSTALO
+159,LOK_00159,Sveta Ana,OBCINA,Slovenija,,OSTALO
+160,LOK_00160,Sveta Trojica v Slov. goricah,OBCINA,Slovenija,,OSTALO
+161,LOK_00161,Sveti Andraž v Slov. goricah,OBCINA,Slovenija,,OSTALO
+162,LOK_00162,Sveti Jurij ob Ščavnici,OBCINA,Slovenija,,OSTALO
+163,LOK_00163,Sveti Jurij v Slov. goricah,OBCINA,Slovenija,,OSTALO
+164,LOK_00164,Sveti Tomaž,OBCINA,Slovenija,,OSTALO
+165,LOK_00165,Tabor,OBCINA,Slovenija,,OSTALO
+166,LOK_00166,Tišina,OBCINA,Slovenija,,OSTALO
+167,LOK_00167,Tolmin,OBCINA,Slovenija,,OSTALO
+168,LOK_00168,Trbovlje,OBCINA,Slovenija,,OSTALO
+169,LOK_00169,Trebnje,OBCINA,Slovenija,,OSTALO
+170,LOK_00170,Trnovska vas,OBCINA,Slovenija,,OSTALO
+171,LOK_00171,Trzin,OBCINA,Slovenija,,OSTALO
+172,LOK_00172,Tržič,OBCINA,Slovenija,,OSTALO
+173,LOK_00173,Turnišče,OBCINA,Slovenija,,OSTALO
+174,LOK_00174,Velenje,OBCINA,Slovenija,,OSTALO
+175,LOK_00175,Velika Polana,OBCINA,Slovenija,,OSTALO
+176,LOK_00176,Velike Lašče,OBCINA,Slovenija,,OSTALO
+177,LOK_00177,Veržej,OBCINA,Slovenija,,OSTALO
+178,LOK_00178,Videm,OBCINA,Slovenija,,OSTALO
+179,LOK_00179,Vipava,OBCINA,Slovenija,,OSTALO
+180,LOK_00180,Vitanje,OBCINA,Slovenija,,OSTALO
+181,LOK_00181,Vodice,OBCINA,Slovenija,,OSTALO
+182,LOK_00182,Vojnik,OBCINA,Slovenija,,OSTALO
+183,LOK_00183,Vransko,OBCINA,Slovenija,,OSTALO
+184,LOK_00184,Vrhnika,OBCINA,Slovenija,,OSTALO
+185,LOK_00185,Vuzenica,OBCINA,Slovenija,,OSTALO
+186,LOK_00186,Zagorje ob Savi,OBCINA,Slovenija,,OSTALO
+187,LOK_00187,Zavrč,OBCINA,Slovenija,,OSTALO
+188,LOK_00188,Zreče,OBCINA,Slovenija,,OSTALO
+189,LOK_00189,Črenšovci,OBCINA,Slovenija,,OSTALO
+190,LOK_00190,Črna na Koroškem,OBCINA,Slovenija,,OSTALO
+191,LOK_00191,Črnomelj,OBCINA,Slovenija,,OSTALO
+192,LOK_00192,Šalovci,OBCINA,Slovenija,,OSTALO
+193,LOK_00193,Šempeter - Vrtojba,OBCINA,Slovenija,,OSTALO
+194,LOK_00194,Šentilj,OBCINA,Slovenija,,OSTALO
+195,LOK_00195,Šentjernej,OBCINA,Slovenija,,OSTALO
+196,LOK_00196,Šentjur,OBCINA,Slovenija,,OSTALO
+197,LOK_00197,Šentrupert,OBCINA,Slovenija,,OSTALO
+198,LOK_00198,Šenčur,OBCINA,Slovenija,,OSTALO
+199,LOK_00199,Škocjan,OBCINA,Slovenija,,OSTALO
+200,LOK_00200,Škofja Loka,OBCINA,Slovenija,,OSTALO
+201,LOK_00201,Škofljica,OBCINA,Slovenija,,OSTALO
+202,LOK_00202,Šmarje pri Jelšah,OBCINA,Slovenija,,OSTALO
+203,LOK_00203,Šmarješke Toplice,OBCINA,Slovenija,,OSTALO
+204,LOK_00204,Šmartno ob Paki,OBCINA,Slovenija,,OSTALO
+205,LOK_00205,Šmartno pri Litiji,OBCINA,Slovenija,,OSTALO
+206,LOK_00206,Šoštanj,OBCINA,Slovenija,,OSTALO
+207,LOK_00207,Štore,OBCINA,Slovenija,,OSTALO
+208,LOK_00208,Žalec,OBCINA,Slovenija,,OSTALO
+209,LOK_00209,Železniki,OBCINA,Slovenija,,OSTALO
+210,LOK_00210,Žetale,OBCINA,Slovenija,,OSTALO
+211,LOK_00211,Žiri,OBCINA,Slovenija,,OSTALO
+212,LOK_00212,Žirovnica,OBCINA,Slovenija,,OSTALO
+213,LOK_00213,Žužemberk,OBCINA,Slovenija,,OSTALO

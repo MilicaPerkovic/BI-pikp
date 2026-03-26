@@ -1,0 +1,55 @@
+dim_drzava_sk,drzava_id,drzava_kanonicna,drzava_naziv_sl,drzava_naziv_en,source_surs,source_eurostat,iso2,iso3,eu_clanica,regija_izvora,je_agregat
+1,DRZ_0001,Australia,Avstralija,Australia,1,1,AU,AUS,NE,Oceanija,0
+2,DRZ_0002,Austria,Avstrija,Austria,1,1,AT,AUT,DA,Evropa,0
+3,DRZ_0003,Belgium,Belgija,Belgium,1,1,BE,BEL,DA,Evropa,0
+4,DRZ_0004,Bosnia and Herzegovina,Bosna in Hercegovina,Bosnia and Herzegovina,1,0,BA,BIH,NE,Evropa,0
+5,DRZ_0005,Brazil,Brazilija,Brazil,1,1,BR,BRA,NE,Amerika,0
+6,DRZ_0006,Bulgaria,Bolgarija,Bulgaria,1,1,BG,BGR,DA,Evropa,0
+7,DRZ_0007,Canada,Kanada,Canada,1,1,CA,CAN,NE,Amerika,0
+8,DRZ_0008,China,Kitajska (Ljudska republika),China,1,1,CN,CHN,NE,Azija,0
+9,DRZ_0009,Croatia,Hrvaška,Croatia,1,1,HR,HRV,DA,Evropa,0
+10,DRZ_0010,Cyprus,Ciper,Cyprus,1,1,CY,CYP,DA,Evropa,0
+11,DRZ_0011,Czechia,Češka republika,Czechia,1,1,CZ,CZE,DA,Evropa,0
+12,DRZ_0012,Denmark,Danska,Denmark,1,1,DK,DNK,DA,Evropa,0
+13,DRZ_0013,Estonia,Estonija,Estonia,1,1,EE,EST,DA,Evropa,0
+14,DRZ_0014,Finland,Finska,Finland,1,1,FI,FIN,DA,Evropa,0
+15,DRZ_0015,France,Francija,France,1,1,FR,FRA,DA,Evropa,0
+16,DRZ_0016,Germany,Nemčija,Germany,1,1,DE,DEU,DA,Evropa,0
+17,DRZ_0017,Greece,Grčija,Greece,1,1,GR,GRC,DA,Evropa,0
+18,DRZ_0018,Hungary,Madžarska,Hungary,1,1,HU,HUN,DA,Evropa,0
+19,DRZ_0019,Iceland,Islandija,Iceland,1,0,IS,ISL,NE,Evropa,0
+20,DRZ_0020,Ireland,Irska,Ireland,1,1,IE,IRL,DA,Evropa,0
+21,DRZ_0021,Israel,Izrael,Israel,1,1,IL,ISR,NE,Azija,0
+22,DRZ_0022,Italy,Italija,Italy,1,1,IT,ITA,DA,Evropa,0
+23,DRZ_0023,Japan,Japonska,Japan,1,1,JP,JPN,NE,Azija,0
+24,DRZ_0024,Latvia,Latvija,Latvia,1,1,LV,LVA,DA,Evropa,0
+25,DRZ_0025,Lithuania,Litva,Lithuania,1,1,LT,LTU,DA,Evropa,0
+26,DRZ_0026,Luxembourg,Luksemburg,Luxembourg,1,1,LU,LUX,DA,Evropa,0
+27,DRZ_0027,Malta,Malta,Malta,1,1,MT,MLT,DA,Evropa,0
+28,DRZ_0028,Montenegro,Črna gora,Montenegro,1,0,ME,MNE,NE,Evropa,0
+29,DRZ_0029,Netherlands,Nizozemska,Netherlands,1,1,NL,NLD,DA,Evropa,0
+30,DRZ_0030,New Zealand,Nova Zelandija,New Zealand,1,1,NZ,NZL,NE,Oceanija,0
+31,DRZ_0031,North Macedonia,Makedonija,North Macedonia,1,1,MK,MKD,NE,Evropa,0
+32,DRZ_0032,Norway,Norveška,Norway,1,1,NO,NOR,NE,Evropa,0
+33,DRZ_0033,Poland,Poljska,Poland,1,1,PL,POL,DA,Evropa,0
+34,DRZ_0034,Portugal,Portugalska,Portugal,1,1,PT,PRT,DA,Evropa,0
+35,DRZ_0035,Republic of Korea,Koreja (Republika),Republic of Korea,1,1,KR,KOR,NE,Azija,0
+36,DRZ_0036,Romania,Romunija,Romania,1,1,RO,ROU,DA,Evropa,0
+37,DRZ_0037,Russia,Ruska federacija,Russia,1,1,RU,RUS,NE,Evropa,0
+38,DRZ_0038,Serbia,Srbija,Serbia,1,1,RS,SRB,NE,Evropa,0
+39,DRZ_0039,Slovakia,Slovaška,Slovakia,1,1,SK,SVK,DA,Evropa,0
+40,DRZ_0040,Slovenia,,Slovenia,0,1,SI,SVN,DA,Evropa,0
+41,DRZ_0041,South Africa,Južna Afrika,South Africa,1,0,ZA,ZAF,NE,Afrika,0
+42,DRZ_0042,Spain,Španija,Spain,1,1,ES,ESP,DA,Evropa,0
+43,DRZ_0043,Sweden,Švedska,Sweden,1,1,SE,SWE,DA,Evropa,0
+44,DRZ_0044,Switzerland,Švica,Switzerland,1,1,CH,CHE,NE,Evropa,0
+45,DRZ_0045,Turkey,Turčija,Turkey,1,1,TR,TUR,NE,Azija,0
+46,DRZ_0046,Ukraine,Ukrajina,Ukraine,1,1,UA,UKR,NE,Evropa,0
+47,DRZ_0047,United Kingdom,Združeno kraljestvo,United Kingdom,1,1,GB,GBR,NE,Evropa,0
+48,DRZ_0048,United States,Združene države (ZDA),United States,1,1,US,USA,NE,Amerika,0
+49,DRZ_0049,Other African countries,Druge afriške države,Other African countries,1,0,,,NEZNANO,Afrika,1
+50,DRZ_0050,Other Asian countries,Druge azijske države,Other Asian countries,1,0,,,NEZNANO,Azija,1
+51,DRZ_0051,Other European countries,Druge evropske države,Other European countries,1,0,,,NEZNANO,Evropa,1
+52,DRZ_0052,Other North American countries and territories,Druge države in ozemlja Severne Amerike,Other North American countries and territories,1,0,,,NEZNANO,Amerika,1
+53,DRZ_0053,Other Oceania countries and territories,Druge države in ozemlja Oceanije,Other Oceania countries and territories,1,0,,,NEZNANO,Oceanija,1
+54,DRZ_0054,Other South and Central American countries,Druge države Južne in Srednje Amerike,Other South and Central American countries,1,0,,,NEZNANO,Amerika,1

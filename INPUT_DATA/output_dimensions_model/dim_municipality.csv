@@ -1,0 +1,213 @@
+municipality_id,obcina,region_id
+1,Ajdovščina,5
+2,Ankaran/Ancarano,4
+3,Apače,5
+4,Beltinci,5
+5,Benedikt,5
+6,Bistrica ob Sotli,5
+7,Bled,1
+8,Bloke,5
+9,Bohinj,1
+10,Borovnica,5
+11,Bovec,1
+12,Braslovče,5
+13,Brda,5
+14,Brezovica,5
+15,Brežice,5
+16,Cankova,5
+17,Celje,2
+18,Cerklje na Gorenjskem,5
+19,Cerknica,5
+20,Cerkno,5
+21,Cerkvenjak,5
+22,Cirkulane,5
+23,Destrnik,5
+24,Divača,5
+25,Dobje,5
+26,Dobrepolje,5
+27,Dobrna,5
+28,Dobrova - Polhov Gradec,5
+29,Dobrovnik/Dobronak,5
+30,Dol pri Ljubljani,5
+31,Dolenjske Toplice,5
+32,Domžale,5
+33,Dornava,5
+34,Dravograd,5
+35,Duplek,5
+36,Gorenja vas - Poljane,5
+37,Gorišnica,5
+38,Gorje,5
+39,Gornja Radgona,5
+40,Gornji Grad,5
+41,Gornji Petrovci,5
+42,Grad,5
+43,Grosuplje,5
+44,Hajdina,5
+45,Hodoš/Hodos,5
+46,Horjul,5
+47,Hoče - Slivnica,5
+48,Hrastnik,5
+49,Hrpelje - Kozina,5
+50,Idrija,5
+51,Ig,5
+52,Ilirska Bistrica,5
+53,Ivančna Gorica,5
+54,Izola/Isola,4
+55,Jesenice,5
+56,Jezersko,5
+57,Juršinci,5
+58,Kamnik,5
+59,Kanal,5
+60,Kidričevo,5
+61,Kobarid,1
+62,Kobilje,5
+63,Komen,5
+64,Komenda,5
+65,Koper/Capodistria,4
+66,Kostanjevica na Krki,5
+67,Kostel,5
+68,Kozje,5
+69,Kočevje,5
+70,Kranj,2
+71,Kranjska Gora,1
+72,Križevci,5
+73,Krško,5
+74,Kungota,5
+75,Kuzma,5
+76,Laško,5
+77,Lenart,5
+78,Lendava/Lendva,5
+79,Litija,5
+80,Ljubljana,2
+81,Ljubno,5
+82,Ljutomer,5
+83,Log - Dragomer,5
+84,Logatec,5
+85,Lovrenc na Pohorju,5
+86,Loška dolina,5
+87,Loški Potok,5
+88,Lukovica,5
+89,Luče,5
+90,Majšperk,5
+91,Makole,5
+92,Maribor,2
+93,Markovci,5
+94,Medvode,5
+95,Mengeš,5
+96,Metlika,5
+97,Mežica,5
+98,Miklavž na Dravskem polju,5
+99,Miren - Kostanjevica,5
+100,Mirna,5
+101,Mirna Peč,5
+102,Mislinja,5
+103,Mokronog - Trebelno,5
+104,Moravske Toplice,5
+105,Moravče,5
+106,Mozirje,5
+107,Murska Sobota,5
+108,Muta,5
+109,Naklo,5
+110,Nazarje,5
+111,Nova Gorica,5
+112,Novo mesto,2
+113,Odranci,5
+114,Oplotnica,5
+115,Ormož,5
+116,Osilnica,5
+117,Pesnica,5
+118,Piran/Pirano,4
+119,Pivka,5
+120,Podlehnik,5
+121,Podvelka,5
+122,Podčetrtek,5
+123,Poljčane,5
+124,Polzela,5
+125,Postojna,5
+126,Prebold,5
+127,Preddvor,5
+128,Prevalje,5
+129,Ptuj,5
+130,Puconci,5
+131,Radenci,5
+132,Radeče,5
+133,Radlje ob Dravi,5
+134,Radovljica,5
+135,Ravne na Koroškem,5
+136,Razkrižje,5
+137,Rače - Fram,5
+138,Renče - Vogrsko,5
+139,Rečica ob Savinji,5
+140,Ribnica,5
+141,Ribnica na Pohorju,5
+142,Rogatec,5
+143,Rogaška Slatina,5
+144,Rogašovci,5
+145,Ruše,5
+146,Selnica ob Dravi,5
+147,Semič,5
+148,Sevnica,5
+149,Sežana,5
+150,Slovenj Gradec,5
+151,Slovenska Bistrica,5
+152,Slovenske Konjice,5
+153,Sodražica,5
+154,Solčava,5
+155,Središče ob Dravi,5
+156,Starše,5
+157,Straža,5
+158,Sveta Ana,5
+159,Sveta Trojica v Slov. goricah,5
+160,Sveti Andraž v Slov. goricah,5
+161,Sveti Jurij ob Ščavnici,5
+162,Sveti Jurij v Slov. goricah,5
+163,Sveti Tomaž,5
+164,Tabor,5
+165,Tišina,5
+166,Tolmin,5
+167,Trbovlje,5
+168,Trebnje,5
+169,Trnovska vas,5
+170,Trzin,5
+171,Tržič,5
+172,Turnišče,5
+173,Velenje,5
+174,Velika Polana,5
+175,Velike Lašče,5
+176,Veržej,5
+177,Videm,5
+178,Vipava,5
+179,Vitanje,5
+180,Vodice,5
+181,Vojnik,5
+182,Vransko,5
+183,Vrhnika,5
+184,Vuzenica,5
+185,Zagorje ob Savi,5
+186,Zavrč,5
+187,Zreče,5
+188,Črenšovci,5
+189,Črna na Koroškem,5
+190,Črnomelj,5
+191,Šalovci,5
+192,Šempeter - Vrtojba,5
+193,Šentilj,5
+194,Šentjernej,5
+195,Šentjur,5
+196,Šentrupert,5
+197,Šenčur,5
+198,Škocjan,5
+199,Škofja Loka,5
+200,Škofljica,5
+201,Šmarje pri Jelšah,5
+202,Šmarješke Toplice,5
+203,Šmartno ob Paki,5
+204,Šmartno pri Litiji,5
+205,Šoštanj,5
+206,Štore,5
+207,Žalec,5
+208,Železniki,5
+209,Žetale,5
+210,Žiri,5
+211,Žirovnica,5
+212,Žužemberk,5

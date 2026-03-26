@@ -1,0 +1,5 @@
+dim_sezona_sk,sezona_id,sezona,meseci
+1,SEZ_01,Zima,"12,1,2"
+2,SEZ_02,Pomlad,"3,4,5"
+3,SEZ_03,Poletje,"6,7,8"
+4,SEZ_04,Jesen,"9,10,11"

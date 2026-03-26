@@ -1,0 +1,48 @@
+country_id,drzava,regija_evrope,pps,gdp_per_capita
+1,Australia,Izven Evrope,,
+2,Austria,Evropa,119.00,119.00
+3,Belgium,Evropa,117.00,117.00
+4,Bosnia and Herzegovina,Evropa,35.00,35.00
+5,Brazil,Izven Evrope,,
+6,Bulgaria,Evropa,66.00,66.00
+7,Canada,Izven Evrope,,
+8,China,Izven Evrope,,
+9,Croatia,Evropa,78.00,78.00
+10,Cyprus,Evropa,99.00,99.00
+11,Czechia,Evropa,91.00,91.00
+12,Denmark,Evropa,127.00,127.00
+13,Estonia,Evropa,79.00,79.00
+14,Finland,Evropa,102.00,102.00
+15,France,Evropa,98.00,98.00
+16,Germany,Evropa,116.00,116.00
+17,Greece,Evropa,69.00,69.00
+18,Hungary,Evropa,76.00,76.00
+19,Iceland,Evropa,131.00,131.00
+20,Ireland,Evropa,221.00,221.00
+21,Israel,Izven Evrope,,
+22,Italy,Evropa,98.00,98.00
+23,Japan,Izven Evrope,82.00,82.00
+24,Latvia,Evropa,68.00,68.00
+25,Lithuania,Evropa,87.00,87.00
+26,Luxembourg,Evropa,245.00,245.00
+27,Malta,Evropa,110.00,110.00
+28,Montenegro,Evropa,53.00,53.00
+29,Netherlands,Evropa,134.00,134.00
+30,New Zealand,Izven Evrope,,
+31,North Macedonia,Evropa,42.00,42.00
+32,Norway,Evropa,160.00,160.00
+33,Poland,Evropa,78.00,78.00
+34,Portugal,Evropa,82.00,82.00
+35,Republic of Korea,Izven Evrope,,
+36,Romania,Evropa,77.00,77.00
+37,Russia,Evropa,,
+38,Serbia,Evropa,52.00,52.00
+39,Slovakia,Evropa,75.00,75.00
+40,South Africa,Izven Evrope,,
+41,Spain,Evropa,91.00,91.00
+42,Sweden,Evropa,111.00,111.00
+43,Switzerland,Evropa,151.00,151.00
+44,Turkey,Izven Evrope,,
+45,Ukraine,Evropa,,
+46,United Kingdom,Evropa,99.00,99.00
+47,United States,Izven Evrope,135.00,135.00
