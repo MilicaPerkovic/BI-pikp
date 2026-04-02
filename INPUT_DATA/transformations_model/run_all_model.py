@@ -1,7 +1,6 @@
 from tr_dim_time import main as run_dim_time
 from tr_dim_country import main as run_dim_country
-from tr_dim_region_slovenia import main as run_dim_region
-from tr_dim_municipality import main as run_dim_municipality
+from tr_dim_location import main as run_dim_location
 import csv
 from pathlib import Path
 
@@ -27,11 +26,9 @@ def print_preview(csv_path: Path) -> None:
 if __name__ == "__main__":
     run_dim_time()
     run_dim_country()
-    run_dim_region()
-    run_dim_municipality()
+    run_dim_location()
 
     out_dir = Path(__file__).resolve().parent.parent / "output_dimensions_model"
     print_preview(out_dir / "dim_time.csv")
     print_preview(out_dir / "dim_country.csv")
-    print_preview(out_dir / "dim_region_slovenia.csv")
-    print_preview(out_dir / "dim_municipality.csv")
+    print_preview(out_dir / "dim_location.csv")
